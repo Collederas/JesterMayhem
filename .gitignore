@@ -71,6 +71,5 @@ Intermediate/*
 Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
-DerivedDataCache/*
-
-IgnoredAssets/*
+DerivedDataCache
+Content/IgnoredAssets/
